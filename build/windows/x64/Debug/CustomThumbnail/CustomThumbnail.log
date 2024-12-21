@@ -1,0 +1,41 @@
+﻿  FFGLFBO.cpp
+  FFGLScopedBufferBinding.cpp
+  FFGLScopedFBOBinding.cpp
+  FFGLScopedRenderBufferBinding.cpp
+  FFGLScopedSamplerActivation.cpp
+  FFGLScopedShaderBinding.cpp
+  FFGLScopedTextureBinding.cpp
+  FFGLScopedVAOBinding.cpp
+  FFGLScreenQuad.cpp
+  FFGLShader.cpp
+  FFGLUtilities.cpp
+  FFGLAudio.cpp
+  FFGLEffect.cpp
+  FFGLMixer.cpp
+  FFGLParam.cpp
+  FFGLParamBool.cpp
+  FFGLParamEvent.cpp
+  FFGLParamFFT.cpp
+  FFGLParamOption.cpp
+  FFGLParamRange.cpp
+  Code wird generiert...
+  Kompilieren...
+  FFGLParamText.cpp
+  FFGLParamTrigger.cpp
+  FFGLPlugin.cpp
+  FFGLRandom.cpp
+  FFGLSmoothValue.cpp
+  FFGLSource.cpp
+  FFGL.cpp
+  FFGLLog.cpp
+  FFGLPluginInfo.cpp
+  FFGLPluginInfoData.cpp
+  FFGLPluginManager.cpp
+  FFGLPluginSDK.cpp
+  FFGLThumbnailInfo.cpp
+  CustomThumbnail.cpp
+  PNGLoader.cpp
+  Code wird generiert...
+     Bibliothek "..\..\binaries\x64\Debug\CustomThumbnail.lib" und Objekt "..\..\binaries\x64\Debug\CustomThumbnail.exp" werden erstellt.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  CustomThumbnail.vcxproj -> C:\Users\atiemark\OneDrive\Resolume FFGL coding\ffgl\binaries\x64\Debug\CustomThumbnail.dll

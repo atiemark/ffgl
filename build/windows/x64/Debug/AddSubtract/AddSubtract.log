@@ -1,0 +1,41 @@
+﻿  FFGLFBO.cpp
+  FFGLScopedBufferBinding.cpp
+  FFGLScopedFBOBinding.cpp
+  FFGLScopedRenderBufferBinding.cpp
+  FFGLScopedSamplerActivation.cpp
+  FFGLScopedShaderBinding.cpp
+  FFGLScopedTextureBinding.cpp
+  FFGLScopedVAOBinding.cpp
+  FFGLScreenQuad.cpp
+  FFGLShader.cpp
+  FFGLUtilities.cpp
+  FFGLAudio.cpp
+  FFGLEffect.cpp
+  FFGLMixer.cpp
+  FFGLParam.cpp
+  FFGLParamBool.cpp
+  FFGLParamEvent.cpp
+  FFGLParamFFT.cpp
+  FFGLParamOption.cpp
+  FFGLParamRange.cpp
+  Code wird generiert...
+  Kompilieren...
+  FFGLParamText.cpp
+  FFGLParamTrigger.cpp
+  FFGLPlugin.cpp
+  FFGLRandom.cpp
+  FFGLSmoothValue.cpp
+  FFGLSource.cpp
+  FFGL.cpp
+  FFGLLog.cpp
+  FFGLPluginInfo.cpp
+  FFGLPluginInfoData.cpp
+  FFGLPluginManager.cpp
+  FFGLPluginSDK.cpp
+  FFGLThumbnailInfo.cpp
+  AddSubtract.cpp
+  Code wird generiert...
+glew32s.lib(glew.obj) : warning LNK4099: PDB "" wurde nicht mit "glew32s.lib(glew.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+     Bibliothek "..\..\binaries\x64\Debug\AddSubtract.lib" und Objekt "..\..\binaries\x64\Debug\AddSubtract.exp" werden erstellt.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  AddSubtract.vcxproj -> C:\Users\atiemark\OneDrive\Resolume FFGL coding\ffgl\binaries\x64\Debug\AddSubtract.dll
